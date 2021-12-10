@@ -1,3 +1,14 @@
 a='ketan'
 print(a)
+a1='thorat'
+print(a1)
+a2='heaptrace technology'
+print(a2)
+a3='software developer trainee'
+print(a3)
+a4='wakad'
+print(a4)
+a5='it industry'
+print(a5)
+
 
